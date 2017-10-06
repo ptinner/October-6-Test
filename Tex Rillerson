@@ -2,7 +2,7 @@
 
 # Rex Tillerson
 
-##Who?
+## Who?
 
 [Rex Tillerson](https://en.wikipedia.org/wiki/Rex_Tillerson#Secretary_of_State) is:
 * the standing Secretary of State of United States.
